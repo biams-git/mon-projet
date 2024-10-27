@@ -24,3 +24,4 @@ function pairOuImpair(nombre) {
 
 const nombre = parseInt(prompt("Entrez un nombre : "));
 pairOuImpair(nombre);
+
