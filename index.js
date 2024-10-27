@@ -19,7 +19,7 @@ function pairOuImpair(nombre) {
         if (!divisible) {
             console.log(`${nombre} n'est pas divisible par 3, 5, 7, 9, 11 ou 13`);
         }
-    }
+    } 
 }
 
 const nombre = parseInt(prompt("Entrez un nombre : "));
